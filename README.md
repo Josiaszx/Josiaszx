@@ -1,5 +1,5 @@
 ## ¡Hola! Visitante 🛸
-Hola, me llamo Josias, tengo 20 años y soy estudiante y desarrollador backend Java.
+Hola, me llamo Josias, tengo 20 años y soy estudiante universitario y desarrollador backend.
 
 ### 💻 Mi Especialización Técnica
 **Desarrollo backend** con **Java + Spring Framework** implementando **Spring Boot**, **Spring Security** y **Spring Data JPA**.
