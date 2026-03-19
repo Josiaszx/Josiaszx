@@ -19,7 +19,7 @@ Tecnologias y herramientas que manejo:
 **Backend:**  
 
 ![springboot](https://www.readmecodegen.com/api/social-icon?name=springboot)
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![FastAPI](https://skillicons.dev/icons?i=spring,fastapi)
 
 **Bases de Datos:**
 
@@ -27,11 +27,13 @@ Tecnologias y herramientas que manejo:
 
 **Desarrollo/herramientas:**
 
-![Git, Linux, Docker, Postman, Intellij Idea](https://skillicons.dev/icons?i=git,docker,linux,postman,idea)
+![Git, Linux, Docker, Postman, Intellij Idea](https://skillicons.dev/icons?i=git,docker,linux,postman)
+![OpenAPI](https://www.readmecodegen.com/api/social-icon?name=openapiinitiative)
+![MySQL](https://skillicons.dev/icons?i=idea)
 
 **Frontend:**
 
-![React, BootStrap](https://skillicons.dev/icons?i=react,bootstrap)
+![React, BootStrap](https://skillicons.dev/icons?i=angular,bootstrap)
 
 **Lenguajes:**
 
