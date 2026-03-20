@@ -1,10 +1,10 @@
 ## ¡Hola! Visitante 🛸
-Hola, me llamo Josias, tengo 20 años y soy estudiante y Backend Devoleper.
+Hola, me llamo Josias, tengo 20 años y soy estudiante y desarrollador backend.
 
-### 💻 Mi Especialización Técnica
+### 💻 Especialización Técnica
 **Desarrollo backend** con **`Java` + `Spring Framework`** implementando **`Spring Boot`**, **`Spring Security`** y **`Spring Data JPA`**.
 
-### 💼 Mis Proyectos destacados
+### 💼 Proyectos destacados
 
 #### [ ⚙️ Spring-Boot-Apps](https://github.com/Josiaszx/Spring-Boot-Apps)
 Repositorio donde desarrolle una coleccion de **4 APIs REST** con documentación completa implementando Spring para practicar y demostrar habilidades en desarrollo de APIs RESTful profesionales.
@@ -13,13 +13,12 @@ Repositorio que cree para guardar todo mi **aprendizaje y documentación** sobre
 
 ... más proyectos en construcción 🛠️
 
-### 📗 Mi Stack tecnológico
-Tecnologias y herramientas que manejo:
+### 📗 Stack tecnológico
 
 **Backend:**  
 
-![springboot](https://www.readmecodegen.com/api/social-icon?name=springboot)
-![FastAPI](https://skillicons.dev/icons?i=spring,fastapi)
+![Spring Boot](https://www.readmecodegen.com/api/social-icon?name=springboot)
+![Spring, .NET](https://skillicons.dev/icons?i=spring,net)
 
 **Bases de Datos:**
 
@@ -37,4 +36,4 @@ Tecnologias y herramientas que manejo:
 
 **Lenguajes:**
 
-![Java, C, Javascript, Python](https://skillicons.dev/icons?i=java,c,javascript,py)
+![Java, C, Javascript, Python](https://skillicons.dev/icons?i=java,cs,c,javascript,py)
