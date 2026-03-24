@@ -22,7 +22,7 @@ Repositorio que cree para guardar todo mi **aprendizaje y documentación** sobre
 
 **Bases de Datos:**
 
-![MySQL](https://skillicons.dev/icons?i=mysql,postgres)
+![MySQL](https://skillicons.dev/icons?i=mysql,redis,postgres)
 
 **Desarrollo/herramientas:**
 
