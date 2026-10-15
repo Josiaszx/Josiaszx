@@ -1,27 +1,29 @@
-## ¡Hola! Visitante 🛸
-Hola, me llamo Josias, tengo 20 años y soy estudiante y desarrollador backend.
+## ¡Hola! 🛸
 
-### 📗 Stack tecnológico
+- Josias Maidana
+- 21 años
+- Estudiante
+
+### TechStack
 
 **Backend:**  
 
+![.NET](https://skillicons.dev/icons?i=net,nginx)
 ![Spring Boot](https://www.readmecodegen.com/api/social-icon?name=springboot)
-![Spring, .NET](https://skillicons.dev/icons?i=spring,net)
 
-**Bases de Datos:**
+**DB:**
 
-![MySQL](https://skillicons.dev/icons?i=mysql,redis,postgres)
+![Postgres, SQLite, Redis, MySQL](https://skillicons.dev/icons?i=postgres,redis,sqlite,mysql)
 
-**Desarrollo/herramientas:**
+**Dev/Tools:**
 
-![Git, Linux, Docker, Postman, Intellij Idea](https://skillicons.dev/icons?i=git,docker,linux,postman)
+![Git, Linux, Docker, Postman](https://skillicons.dev/icons?i=git,docker,linux,postman)
 ![OpenAPI](https://www.readmecodegen.com/api/social-icon?name=openapiinitiative)
-![MySQL](https://skillicons.dev/icons?i=idea)
 
 **Frontend:**
 
-![React, BootStrap](https://skillicons.dev/icons?i=angular,bootstrap)
+![Angular, BootStrap](https://skillicons.dev/icons?i=angular,bootstrap)
 
 **Lenguajes:**
 
-![Java, C, Javascript, Python](https://skillicons.dev/icons?i=java,cs,c,javascript,py)
+![CS, Java, C, Javascript, Python, Rust](https://skillicons.dev/icons?i=cs,java,c,rust,javascript,py)
