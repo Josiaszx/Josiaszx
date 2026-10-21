@@ -8,7 +8,7 @@
 
 **Backend:**  
 
-![.NET](https://skillicons.dev/icons?i=net,nginx)
+![.NET](https://skillicons.dev/icons?i=net,nginx,graphql)
 ![Spring Boot](https://www.readmecodegen.com/api/social-icon?name=springboot)
 
 **DB:**
