@@ -22,7 +22,7 @@
 
 **Frontend:**
 
-![Angular, BootStrap](https://skillicons.dev/icons?i=angular,bootstrap)
+![Angular, Typescript](https://skillicons.dev/icons?i=angular,typescript)
 
 **Lenguajes:**
 
