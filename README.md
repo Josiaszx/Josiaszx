@@ -8,21 +8,31 @@
 
 **Backend:**  
 
-![.NET](https://skillicons.dev/icons?i=net,nginx,graphql)
+![.NET](https://skillicons.dev/icons?i=net)
+![nginx](https://www.readmecodegen.com/api/social-icon?name=nginx)
+![graphql](https://www.readmecodegen.com/api/social-icon?name=graphql)
 ![Spring Boot](https://www.readmecodegen.com/api/social-icon?name=springboot)
 
 **DB:**
 
-![Postgres, SQLite, Redis, MySQL](https://skillicons.dev/icons?i=postgres,redis,sqlite,mysql)
+![postgresql](https://www.readmecodegen.com/api/social-icon?name=postgresql&color=%23316092)
+![redis](https://www.readmecodegen.com/api/social-icon?name=redis&shape=circle)
+![sqlite](https://www.readmecodegen.com/api/social-icon?name=sqlite&color=%23ffffff)
+![MySQL](https://skillicons.dev/icons?i=mysql)
 
 **Dev/Tools:**
 
-![Git, Linux, Docker, Postman](https://skillicons.dev/icons?i=git,docker,linux,postman)
+![git](https://www.readmecodegen.com/api/social-icon?name=git&shape=circle)
+![docker](https://www.readmecodegen.com/api/social-icon?name=docker&shape=circle)
+![Linux](https://skillicons.dev/icons?i=linux)
+![postman](https://www.readmecodegen.com/api/social-icon?name=postman&shape=circle)
 ![OpenAPI](https://www.readmecodegen.com/api/social-icon?name=openapiinitiative)
+![scalar](https://www.readmecodegen.com/api/social-icon?name=scalar&color=%23ffffff)
 
 **Frontend:**
 
-![Angular, Typescript](https://skillicons.dev/icons?i=angular,typescript)
+![angular](https://www.readmecodegen.com/api/social-icon?name=angular)
+![Typescript](https://skillicons.dev/icons?i=typescript)
 
 **Lenguajes:**
 
